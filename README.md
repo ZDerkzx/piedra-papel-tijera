@@ -5,7 +5,6 @@ El clásico juego de Piedra, Papel, Tijera hecho en Nim.
 ## Tabla de Contenidos
 - [Descripción](#descripción)
 - [Instalación](#instalación)
-- 
 ## Descripción
 Este proyecto implementa el clásico juego de Piedra, Papel, Tijera utilizando el lenguaje de programación Nim.
 
